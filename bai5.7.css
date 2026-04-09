@@ -1,0 +1,18 @@
+div{
+background-color:rgb(152, 147, 147);
+font-size: 50px;color: white;
+width: 400px;height: 200px;
+border: 10px solid white;
+line-height: 200px;
+padding-top: 100px;
+padding-bottom: 100px;
+padding-left: 120px;
+padding-right: 80px;
+margin: 100px;
+font-family: arial;
+outline: 10px rgb(152, 147, 147);
+}
+div:hover{
+transform: scale(0.75) ;
+outline: 30px solid blue;
+}
